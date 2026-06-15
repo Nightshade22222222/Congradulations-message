@@ -1,2 +1,2 @@
-message = "congradulations"
+message = "congratulations"
 print(message.upper())
